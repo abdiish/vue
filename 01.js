@@ -5,9 +5,9 @@ const app = new Vue({
         titulo: 'Curso vue.js', 
         frutas: ['Manzana','Platano','Piña','Mango','Cereza'],
         personas: [
-            {nombre:'Juan', edad:20},
-            {nombre:'Luis', edad:21},
-            {nombre:'Cesar,', edad:23}
+            {nombre:'Juan' , edad:20},
+            {nombre:'Luis' , edad:21},
+            {nombre:'Cesar', edad:23}
         ] 
     }
 })
